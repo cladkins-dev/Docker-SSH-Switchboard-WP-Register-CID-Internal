@@ -1,0 +1,1 @@
+docker run -i -v /WP-Wager-Stacks-Core:/app composer/composer install

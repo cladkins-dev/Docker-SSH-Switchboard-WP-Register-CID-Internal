@@ -1,0 +1,8 @@
+{
+  "_title": "SSH Broker Firewall",
+  "_version": 1.0,
+  "_publisher": "Cody Adkins",
+  "_description": "SSH Broker Firewall Authorization Plugin",
+  "_category": "Addon",
+  "_shortcode": "ssh_broker auth_code='u289rf2h9'"
+}
